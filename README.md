@@ -1,9 +1,9 @@
-# bw2
+# InaWAS Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah II Tangerang 
 
-inawas
+InaWAS
+Aplikasi Inawas merupakan aplikasi mobile untuk memberikan peringatan adanya cuaca ekstrem di wilayah Banten berbasis Kecamatan menggunakan kosep Geolocation dan Crowdsourcing.
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
