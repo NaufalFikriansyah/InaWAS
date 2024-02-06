@@ -13,9 +13,11 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    final Color primaryColor = Color(0xFF015492);
     return MaterialApp(
       title: 'InaWAS',
       theme: ThemeData(
+        primaryColor: primaryColor, // Set primary color
         primarySwatch: Colors.blue,
       ),
       initialRoute: '/',
